@@ -1,0 +1,27 @@
+.img-circle{
+	border-radius: 50% 50%;
+    max-height: 200px;
+    margin-top:  106px;
+    margin-bottom: 0px;
+}
+.img-button{
+	max-height: 340px;
+	margin-top: 66px;
+}
+.bigicon{
+	font-size: 30px;
+}
+.medianicon{
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+.img-langue{
+	border-radius: 50% 50%;
+    max-height: 100px;
+    margin-bottom: 0px;
+}
+
+.medianicon:hover{
+  text-replace: 0.4s;
+  transform: scale(1.5);
+}

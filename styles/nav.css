@@ -1,0 +1,61 @@
+
+.nav{
+   justify-content: space-around;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: whitesmoke;
+    position: fixed;
+    width: 100vw;
+    display: flex;
+    opacity: 0.8;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    width: 89%;
+    transition: 0.5s;
+    line-height: 8px;
+}
+.nav li a:hover {
+    transition: 0.5s;
+    color: white;
+}
+#btn-contact:hover{
+    background-color: #c5e2df;
+}
+#btn-quisuisje:hover{
+    background-color: #f2977b;
+}
+#btn-formations:hover{
+    background-color: #ea58f9;
+}
+#btn-experiences:hover{
+    background-color: #96b4b3;
+}
+#btn-certifications:hover{
+    background-color: #3999d3;
+}
+#btn-logiciels:hover{
+    background-color: #F7D987;
+}
+#btn-langues:hover{
+    background-color: #C6C0C9;
+}
+#btn-interets:hover{
+    background-color: #92CEE7;
+}

@@ -1,0 +1,129 @@
+.btn-clair{
+    text-align: center;
+    font-size: 14px;
+    color: #2b2b2b;
+    padding: 12px;
+    padding-top: 24px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 48px;
+    display: block;
+    width: 200px;
+    transition: 0.5s;
+    line-height: 20px;
+}
+
+.btn-clair:hover{
+	background-color: #f8cebf;
+	transition: 0.5s;
+	color: whitesmoke;
+}
+
+.btn-clair p {
+    display: none;
+}
+
+.btn-clair:hover p {
+    display: block;
+}
+
+.btn-banner1{
+    font-family: 'Lora', serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;
+    color: white;
+    text-shadow: 1px 1px 1px grey;
+    text-align: center;
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 4px;
+    display: block;
+    width: 80%;
+    transition: 0.5s;
+    line-height: 20px;
+}
+
+.btn-banner1:hover{
+    font-family: 'Lora', serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;
+    color: #c5e2df;
+    text-shadow: 1px 1px 1px grey;
+    background-color: white;
+    transition: 0.5s;
+}
+
+.btn-banner2{
+    font-family: 'Lora', serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 26px;
+    color: white;
+    text-shadow: 1px 1px 1px grey;
+    text-align: center;
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 4px;
+    display: block;
+    width: 80%;
+    transition: 0.5s;
+    line-height: 20px;
+}
+
+.btn-banner2:hover{
+    font-family: 'Lora', serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 26px;
+    color: #c5e2df;
+    text-shadow: 1px 1px 1px grey;
+    background-color: white;
+    transition: 0.5s;
+}
+
+.btn-certif{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: dark;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 1px;
+    display: block;
+    width: 57%;
+    transition: 0.5s;
+    line-height: 8px;
+}
+.btn-certif:hover{
+	background-color: #2b2b2b;
+	transition: 0.5s;
+	color: whitesmoke;
+}
+
+.btn-projet{
+    text-align: center;
+    font-size: 14px;
+    color: #2b2b2b;
+    padding: 12px;
+    padding-top: 2px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 2px;
+    display: block;
+    width: 200px;
+    transition: 0.5s;
+    line-height: 20px;
+}
+
+.btn-projet:hover{
+    background-color: #f8cebf;
+    transition: 0.5s;
+    color: whitesmoke;
+}
+
+
